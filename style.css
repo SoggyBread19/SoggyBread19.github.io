@@ -11,6 +11,10 @@ body {
     font-family: Arial, sans-serif;
 }
 
+#home{
+    margin-right: 50px;
+}
+
 /* Style the header and navigation menu */
 header {
     background-color: #333;
