@@ -21,7 +21,7 @@ body {
 
 
 
-/* project.html Button */
+/* Dropdown Button */
 .dropbtn {
     background-color: #04AA6D;
     color: white;
@@ -58,11 +58,10 @@ body {
   .project.html-content a:hover {background-color: #ddd;}
   
   /* Show the dropdown menu on hover */
-  .project.html:hover .dropdown-content {display: block;}
+  .project.html:hover .project.html-content {display: block;}
   
   /* Change the background color of the dropdown button when the dropdown content is shown */
   .project.html:hover .dropbtn {background-color: #3e8e41;}
-
 
 
   
