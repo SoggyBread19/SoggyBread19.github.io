@@ -11,6 +11,10 @@ body {
     font-family: Arial, sans-serif;
 }
 
+.h1aboutme {
+    text-align: center;
+}
+
 /* Style the header and navigation menu */
 header {
     background-color: #333;
