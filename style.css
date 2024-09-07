@@ -120,6 +120,23 @@ footer img {
 }
 
 
-.home {
-    text-align: center;
+p {
+
+    margin:0px;
+    padding:20px;
+    height:200px;
+    width:200px;
+    background-color:red;
+}
+
+
+.red {
+
+
+    margin:0px;
+    padding:20px;
+    height:200px;
+    width:200px;
+    background-color:red;
+
 }
