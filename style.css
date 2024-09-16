@@ -39,8 +39,8 @@ body {
 
 /* Dropdown Button */
 .dropbtn {
-    background-color: #5c4c0b;
-    color: #f7edab;
+    background-color: #bfa854;
+    color: #5c4c0b;
     padding: 16px;
     font-size: 16px;
     border: none;
@@ -71,7 +71,7 @@ body {
   
   .dropdown:hover .dropdown-content {display: block;}
   
-  .dropdown:hover .dropbtn {background-color: #4a3c01;}
+  .dropdown:hover .dropbtn {background-color: #b39837;}
 
 
 
