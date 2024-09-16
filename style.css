@@ -4,6 +4,18 @@ body, h2, h3, p {
     padding: 0;
 }
 
+/*Fixed footer and header*/
+body {
+ display: flex;
+ flex-direction: column;
+ min-height: 100vh; 
+ 
+}
+
+section {
+    flex-grow: 1;
+}
+
 /* Set a background color and text color */
 body {
     background-color: #94ab72;
